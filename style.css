@@ -121,8 +121,8 @@ header nav{
 
 .card-image img{
     border-radius: 15px;
-    min-width: 350px;
-    max-width: 350px;
+    min-width: 240px;
+    max-width: 240px;
 }
 
 .card-image:hover > :first-child{
